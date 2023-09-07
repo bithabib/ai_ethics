@@ -12,3 +12,7 @@
      - Who is responsible when something goes wrong?
      - Will we rely too much on AI?
      - What happens when it is “too late”?
+
+# Chapter 2
+## SUPERINTELLIGENCE, MONSTERS, AND THE AI APOCALYPSE
+
