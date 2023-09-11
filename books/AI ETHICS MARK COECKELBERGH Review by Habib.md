@@ -31,7 +31,7 @@
      - We are meaning-making, conscious, embodied, and living beings whose nature, mind, and knowledge cannot be explained away by comparisons to machines.
 
   
-2. Is computer brain
+2. Is computer has brain?
      - Recurrent Neural Network, CNN (Almost close to our brain functionalities)
 ##### Is our body and mind separate?
 ##### Why does AI have to be like humans to rule the world? Does not ChatGPT, Meta, and Google start dominating in many things?
