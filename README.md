@@ -24,7 +24,7 @@ This repository is created to document and share my learning journey in the AI E
 
 Here you will find a collection of materials related to the course:
 
-- **Textbooks**: Links or references to textbooks used in the course.
+- **Textbooks**: [Links or references to textbooks used in the course.](https://github.com/bithabib/ai_ethics/tree/main/books)
 - **Research Papers**: Links to relevant research papers or articles.
 - **Lecture Notes**: My personal notes from lectures and discussions.
 - **Assignments**: Details of assignments, including due dates and submission instructions.
