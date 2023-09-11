@@ -29,6 +29,7 @@ Here you will find a collection of materials related to the course:
 - **Lecture Notes**: My personal notes from lectures and discussions.
 - **Assignments**: Details of assignments, including due dates and submission instructions.
 - **Projects**: Information about any course-related projects.
+- **Course Materials**: https://fowler.space/drive/d/s/v75oknq6bJtjLI3TlwXBcWZXId7tXXyv/AWa9vgvhY-XEY9-0OQ2bIiESt9aMy2By-B7qAzIzTugo
 
 Please feel free to explore and use these materials as you see fit for your studies. However, ensure that you respect academic integrity and copyright rules when using external resources.
 
