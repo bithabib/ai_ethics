@@ -16,9 +16,9 @@ This repository is created to document and share my learning journey in the AI E
 
 ## Course Information
 
-- **Course Title**: [Add Course Title]
-- **Instructor**: [Add Instructor Name]
-- **Semester**: [Add Semester Information]
+- **Course Title**: [Contemporary AI Ethics]
+- **Instructor**: [Abraham Fowler]
+- **Semester**: [Second Semester]
 
 ## Materials
 
