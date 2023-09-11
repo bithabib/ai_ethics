@@ -15,4 +15,13 @@
 
 # Chapter 2
 ## SUPERINTELLIGENCE, MONSTERS, AND THE AI APOCALYPSE
+1. Hypothesizing/ Speculations
+     - Superintelligence --> machines will take over
+     - Transhumanism --> Take humans to God-level immortal
+          - transcendence --> transcendence machine that promises immortality
+          - apocalypse --> describing or prophesying the complete destruction of the world
+      
+
+# Chapter 3
+## ALL ABOUT THE HUMAN
 
