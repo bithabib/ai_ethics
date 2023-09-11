@@ -35,3 +35,7 @@
      - Recurrent Neural Network, CNN (Almost close to our brain functionalities)
 ##### Is our body and mind separate?
 ##### Why does AI have to be like humans to rule the world? Does not ChatGPT, Meta, and Google start dominating in many things?
+
+# Chapter 4
+## JUST MACHINES?
+
