@@ -55,4 +55,6 @@ This repository is licensed under the [Add License Name] License. See the [LICEN
 **Note:** This README is just a template. Please update it with the specific details and resources related to your AI Ethics course.
 
 # Journal To publish papers
-[1] https://onlinelibrary.wiley.com/page/journal/14679507/homepage/forauthors.html?
+ - [1] https://onlinelibrary.wiley.com/page/journal/14679507/homepage/forauthors.html?
+ - [2] https://www.springer.com/journal/43681
+
