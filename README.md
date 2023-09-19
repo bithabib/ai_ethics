@@ -57,4 +57,5 @@ This repository is licensed under the [Add License Name] License. See the [LICEN
 # Journal To publish papers
  - [1] https://onlinelibrary.wiley.com/page/journal/14679507/homepage/forauthors.html?
  - [2] https://www.springer.com/journal/43681
+ - Conference: https://icissp.scitevents.org/ImportantDates.aspx
 
