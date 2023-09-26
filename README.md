@@ -59,3 +59,6 @@ This repository is licensed under the [Add License Name] License. See the [LICEN
  - [2] https://www.springer.com/journal/43681
  - Conference: https://icissp.scitevents.org/ImportantDates.aspx
 
+# Project For AI and Prevent Bias
+https://www.kaggle.com/code/nathanlauga/ethics-and-ai-how-to-prevent-bias-on-ml
+
